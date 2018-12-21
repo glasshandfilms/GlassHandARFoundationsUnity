@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 331289bab9cb55f428cd90b06497d479
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Backplate
+    100002: BehindNumbers
+    100004: BottomDoor
+    100006: BottomGlass
+    100008: BottomHandle
+    100010: //RootNode
+    100012: GlassDislpay
+    100014: GlassFrame
+    100016: GlassFrameBottom
+    100018: Graphics_Grp
+    100020: HotPads_grp
+    100022: Knobs01
+    100024: Knobs_grp
+    100026: Names
+    100028: OvenFrontPlate
+    100030: polySurface10
+    100032: polySurface8
+    100034: Racks
+    100036: Shell
+    100038: TopDoor
+    100040: TopGlass
+    100042: TopHandle
+    100044: WhiteNumbers
+    400000: Backplate
+    400002: BehindNumbers
+    400004: BottomDoor
+    400006: BottomGlass
+    400008: BottomHandle
+    400010: //RootNode
+    400012: GlassDislpay
+    400014: GlassFrame
+    400016: GlassFrameBottom
+    400018: Graphics_Grp
+    400020: HotPads_grp
+    400022: Knobs01
+    400024: Knobs_grp
+    400026: Names
+    400028: OvenFrontPlate
+    400030: polySurface10
+    400032: polySurface8
+    400034: Racks
+    400036: Shell
+    400038: TopDoor
+    400040: TopGlass
+    400042: TopHandle
+    400044: WhiteNumbers
+    2100000: blinn11
+    2100002: blinn4
+    2100004: blinn6
+    2100006: lambert2
+    2100008: blinn5
+    2100010: blinn10
+    2100012: blinn2
+    2100014: blinn3
+    2100016: blinn8
+    2100018: blinn9
+    2100020: blinn1
+    2100022: blinn7
+    2300000: Backplate
+    2300002: BehindNumbers
+    2300004: BottomDoor
+    2300006: BottomGlass
+    2300008: BottomHandle
+    2300010: GlassDislpay
+    2300012: GlassFrame
+    2300014: GlassFrameBottom
+    2300016: Graphics_Grp
+    2300018: HotPads_grp
+    2300020: Knobs01
+    2300022: Names
+    2300024: OvenFrontPlate
+    2300026: polySurface10
+    2300028: polySurface8
+    2300030: Racks
+    2300032: Shell
+    2300034: TopDoor
+    2300036: TopGlass
+    2300038: TopHandle
+    2300040: WhiteNumbers
+    3300000: Backplate
+    3300002: BehindNumbers
+    3300004: BottomDoor
+    3300006: BottomGlass
+    3300008: BottomHandle
+    3300010: GlassDislpay
+    3300012: GlassFrame
+    3300014: GlassFrameBottom
+    3300016: Graphics_Grp
+    3300018: HotPads_grp
+    3300020: Knobs01
+    3300022: Names
+    3300024: OvenFrontPlate
+    3300026: polySurface10
+    3300028: polySurface8
+    3300030: Racks
+    3300032: Shell
+    3300034: TopDoor
+    3300036: TopGlass
+    3300038: TopHandle
+    3300040: WhiteNumbers
+    4300000: OvenFrontPlate
+    4300002: Shell
+    4300004: Racks
+    4300006: Graphics_Grp
+    4300008: Knobs01
+    4300010: HotPads_grp
+    4300012: Backplate
+    4300014: Names
+    4300016: BehindNumbers
+    4300018: WhiteNumbers
+    4300020: GlassDislpay
+    4300022: BottomDoor
+    4300024: BottomHandle
+    4300026: GlassFrameBottom
+    4300028: BottomGlass
+    4300030: polySurface10
+    4300032: TopDoor
+    4300034: TopHandle
+    4300036: TopGlass
+    4300038: GlassFrame
+    4300040: polySurface8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
